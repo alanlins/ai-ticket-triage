@@ -34,7 +34,7 @@ All ticket data and AI-generated fields are persisted to a PostgreSQL database a
 
 1. **Clone or navigate to the project:**
    ```bash
-   cd C:\Users\KISUKE\PROJECTS\ai-ticket-triage
+   cd <PROJECTS_ROOT>/ai-ticket-triage      # pasta onde voce clonou o repositorio
    ```
 
 2. **Get a Claude API key:**
